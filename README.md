@@ -1,6 +1,8 @@
 # Policy document chat
 
 - Streamlit PoC to ask questions about a policy document.
+- Example document available [here](https://static.aviva.io/content/dam/document-library/health/gen6843.pdf)
+
 
 ## Copying Claude
 
